@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ydinu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ydinu\\.nuget\\packages"
+    ]
+  }
+}
